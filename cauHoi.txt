@@ -1,0 +1,64 @@
+1.
+Có mối quan hệ nào giữa tỷ lệ thất nghiệp ước tính và tỷ lệ tham gia lao động ước tính không?
+Liệu có sự tương quan nào giữa tỷ lệ thất nghiệp ước tính và số người được ước tính đã có việc làm không?
+
+
+2. 
+Bang nào có tỷ lệ thất nghiệp cao nhất dựa vào biểu đồ boxplot?
+Có sự biến động lớn về tỷ lệ thất nghiệp giữa các bang không?
+Liệu có sự khác biệt đáng kể về tỷ lệ thất nghiệp giữa các bang không?
+Có bang nào có phân phối không bình thường đối với tỷ lệ thất nghiệp?
+Có xu hướng nào rõ ràng về sự biến động của tỷ lệ thất nghiệp qua các bang không?
+
+
+3.
+Có mối quan hệ nào giữa tỷ lệ thất nghiệp ước tính, số người được ước tính đã có việc làm và tỷ lệ tham gia lao động ước tính không?
+Liệu có xu hướng nào rõ ràng về mối quan hệ giữa các biến kinh tế trong tập dữ liệu?
+Có sự phân tán đồng nhất trong dữ liệu không hoặc có biến cố nào không bình thường?
+Bang nào có sự biến động lớn nhất trong các chỉ số kinh tế được xem xét?
+Có mối quan hệ nào giữa các biến kinh tế và vùng miền của Ấn Độ?
+
+
+4.
+Bang nào có tỷ lệ thất nghiệp trung bình cao nhất dựa trên biểu đồ bar chart?
+Có sự chênh lệch lớn về tỷ lệ thất nghiệp trung bình giữa các bang không?
+Liệu có các bang có tỷ lệ thất nghiệp trung bình gần nhau không?
+Có sự biến động đáng kể trong tỷ lệ thất nghiệp trung bình giữa các bang không?
+Bang nào có tỷ lệ thất nghiệp trung bình thấp nhất và có đáng kể so với các bang khác?
+
+
+5.
+Có sự biến động như thế nào về tỷ lệ thất nghiệp qua các khu vực (Region) từ tháng 1/2020 đến tháng 10/2020?
+Khu vực nào thường xuyên có tỷ lệ thất nghiệp cao nhất trong khoảng thời gian được xem xét?
+Liệu có xu hướng nào rõ ràng về sự thay đổi của tỷ lệ thất nghiệp qua các khu vực trong suốt thời gian từ tháng 1/2020 đến tháng 10/2020 không?
+Có sự khác biệt đáng kể về tỷ lệ thất nghiệp giữa các khu vực trong cùng một thời điểm không?
+Bang nào thường xuyên gây ra sự biến động lớn nhất trong tỷ lệ thất nghiệp ở mỗi khu vực qua các tháng?
+
+6.
+Khu vực nào có tỷ lệ thất nghiệp trung bình cao nhất?
+Trong khu vực đó, bang nào có tỷ lệ thất nghiệp cao nhất?
+Liệu có sự chênh lệch lớn về tỷ lệ thất nghiệp giữa các bang trong cùng một khu vực không?
+Có sự tương quan giữa tỷ lệ thất nghiệp và số người đã có việc làm (Estimated Employed) không?
+Khu vực nào có sự biến động lớn nhất về tỷ lệ thất nghiệp qua các bang?
+
+7.
+Có sự biến động như thế nào về tỷ lệ thất nghiệp qua các khu vực trong vài tháng đầu của năm 2020?
+Bang nào có tỷ lệ thất nghiệp cao nhất trong mỗi khu vực được xem xét?
+Liệu có sự tương quan giữa vị trí địa lý và mức độ ảnh hưởng của biện pháp phong tỏa đối với tỷ lệ thất nghiệp không?
+Có sự khác biệt đáng kể về tỷ lệ thất nghiệp giữa các khu vực không gian không?
+Bang nào thường xuyên gây ra sự chênh lệch lớn nhất về tỷ lệ thất nghiệp trong mỗi khu vực qua các tháng?
+
+8.
+Bang nào đã chịu ảnh hưởng lớn nhất về tỷ lệ thất nghiệp sau biện pháp phong tỏa?
+Có sự biến động lớn về tỷ lệ thất nghiệp sau biện pháp phong tỏa giữa các bang không?
+Liệu có các bang có mức độ ảnh hưởng khác nhau sau biện pháp phong tỏa không?
+Có xu hướng nào rõ ràng về sự thay đổi của tỷ lệ thất nghiệp sau biện pháp phong tỏa giữa các bang không?
+Bang nào có sự thay đổi lớn nhất và có đáng kể so với các bang khác sau biện pháp phong tỏa?
+
+
+9. 
+Bang nào chịu ảnh hưởng lớn nhất từ biện pháp phong tỏa (lockdown) dựa trên sự thay đổi tỷ lệ thất nghiệp?
+Có sự khác biệt đáng kể về tác động của biện pháp phong tỏa đối với tỷ lệ thất nghiệp giữa các bang không?
+Bang nào chịu ảnh hưởng nhỏ nhất từ biện pháp phong tỏa dựa trên sự thay đổi tỷ lệ thất nghiệp?
+Liệu có xu hướng nào rõ ràng về tác động của biện pháp phong tỏa đối với tỷ lệ thất nghiệp qua các bang không?
+Có sự biến động lớn về tác động của biện pháp phong tỏa đối với tỷ lệ thất nghiệp giữa các bang không?
